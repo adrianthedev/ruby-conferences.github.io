@@ -2237,6 +2237,16 @@
   url: https://wrocloverb.com/
   twitter: wrocloverb
   video_link: https://www.youtube.com/user/wrocloverb/videos
+  
+- name: Friendly.rb 2023
+  location: Bucharest, Romania
+  start_date: 2023-09-27
+  end_date: 2023-09-28
+  url: https://friendlyrb.com
+  twitter: friendlyrb
+  mastodon: https://ruby.social/@friendlyrb
+  cfp_phrase: CFP open
+  reg_phrase: Early Bird tickets available
 
 - name: RubyConf TH 2023
   location: Bangkok, Thailand
